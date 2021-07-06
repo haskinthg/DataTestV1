@@ -1,0 +1,3 @@
+﻿  prGen.cpp
+C:\Users\user\Documents\practice\prGen\prGen.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  prGen.vcxproj -> C:\Users\user\Documents\practice\prGen\Debug\prGen.exe
